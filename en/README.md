@@ -4,7 +4,7 @@
 
 This document is a guide on how to implement skill maps quickly and use them effectively for development projects. 
 
-## 1.1. Purpose
+## 1.1. Objectives
 
 There are two main objectives for using skill maps: 
 
