@@ -1,4 +1,4 @@
-# Skillmap-guide
+# Skillmap guide
 
 # 1.  About this document
 
