@@ -1,4 +1,4 @@
-# Skill map operation guide
+# Skillmap-guide
 
 # 1.  About this document
 
@@ -98,11 +98,11 @@ The following types of pair work are frequently used to increase team member's t
 * **Pair programming**
 * **Pair investigations**
 
-The information obtained from skill maps, such as each team member's technical skill level and whether they have knowledge about each operation, can be used to pair team members in a way that is best suited to the progress of the work and how the team members are improving their skills.
+The information obtained from skill maps, such as each team member's technical skill level and whether they have knowledge about each business, can be used to pair team members in a way that is best suited to the progress of the work and how the team members are improving their skills.
 
 ## 3.2. Allocation of workshop leaders
 
-When holding team workshops so that team members can improve their technical skills and acquire operational knowledge, the * and A symbols on skill maps (indicating who wants to acquire each skill and who is able to teach others, respectively) are useful when selecting leaders.
+When holding team workshops so that team members can improve their technical skills and acquire business knowledge, the * and A symbols on skill maps (indicating who wants to acquire each skill and who is able to teach others, respectively) are useful when selecting leaders.
 
 
 # 4. How to update skill maps
