@@ -136,10 +136,10 @@ If the original skill evaluation results are kept as they are without taking int
 * **Misevaluation**
 
 Skills need to be re-evaluated to keep the information up to date.   
-Recommended methods include performance reviews with the project leader. 
+Recommended methods include performance interviews by the project leader. 
 
 > **Note**:  
-> In addition to providing the information necessary to update skill maps, performance reviews make it possible for team leaders and members to meet regularly and confirm that they are both on the same page. 
+> Interviews are not only useful for updating skill maps, but also for regular awareness of leaders and members. 
 
 
 ## 5. Licensing
